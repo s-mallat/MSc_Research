@@ -3,7 +3,7 @@ How can we adapt text-to-image transformers to manipulate calligraphic imagery i
 
 # Critical Theory [Key Ideas]
   - Inclusivity of Machine Learning research
-  - Technological tools affordances not fitting the Arabic script (Having to modify the script to fit the tool rather than other way round)
+  - Limited affordances of technological tools (not fitting the Arabic script / Having to modify the script to fit the tool rather than other way round)
   - Decolonial Practices within ML
   - Social Resistance of Artists/designers to ML or AI generated Art
 
