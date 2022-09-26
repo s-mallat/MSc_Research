@@ -10,12 +10,6 @@ Original file is located at
 Adapted from https://github.com/nateraw/stable-diffusion-videos AND https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/stable_diffusion
 """
 
-!pip install -qq -U diffusers==0.3.0 transformers ftfy
-!pip install -qq "ipywidgets>=7,<8"
-
-from huggingface_hub import notebook_login
-
-notebook_login()
 
 import json
 import subprocess
